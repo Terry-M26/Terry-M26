@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Sup!
 
-<!--
-**Terry-M26/Terry-M26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresh graduate looking for my first tech role  
+Learning full-stack development (frontend + backend)
 
-Here are some ideas to get you started:
+Tech Stack:
+- Backend: C#, ASP.NET Core, .NET, Web APIs
+- Database: SQL Server, Entity Framework Core
+- Frontend basics: JavaScript, HTML, CSS
+- Tools: Git, GitHub, Visual Studio, VScode, Eclipse, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun facts
+- PC hardware nerd 🖥️
+- Car & bike enthusiast 🏎️🏍️
+- Gym enthusiast 💪
+- Strongly allergic to unemployment 🥲
