@@ -15,4 +15,4 @@ Other Experience
 ⚡ Fun facts
 - PC hardware nerd 🖥️
 - Car & bike enthusiast 🏎️🏍️
-- Strongly allergic to unemployment 🥲
+
