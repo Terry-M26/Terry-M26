@@ -1,10 +1,10 @@
 👋 Sup!
 
-Fresh graduate looking for my first tech role  
+Studied Computer Science with Network Security at University of Technology Mauritius 
 
 Primary Tech Stack (.NET)
 - C#, ASP.NET Core, .NET, Web APIs
-- SQL Server, Entity Framework Core, LINQ
+- SQL Server, Entity Framework Core
 
 Other Experience
 - Languages: Java, Python, Dart
