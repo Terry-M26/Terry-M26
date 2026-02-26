@@ -2,7 +2,7 @@
 
 Computer Science (Network Security) graduate from University of Technology Mauritius
 
-Primary Tech Stack (.NET Ecosystem)
+Primary Tech Stack 
 
 C#, ASP.NET Core, .NET
 
@@ -16,7 +16,7 @@ Other Experience
 
 Languages: Java, Python, Dart, PHP
 
-Frontend: JavaScript, HTML, CSS
+Frontend: React, JavaScript, HTML, CSS
 
 Cloud & Backend: Firebase (Auth, Firestore, Cloud Functions)
 
