@@ -1,18 +1,22 @@
-👋 Sup!
+👋 Hi, I’m Terry
 
-Studied Computer Science with Network Security at University of Technology Mauritius 
+Computer Science (Network Security) graduate from University of Technology Mauritius
 
-Primary Tech Stack (.NET)
-- C#, ASP.NET Core, .NET, Web APIs
-- SQL Server, Entity Framework Core
+Primary Tech Stack (.NET Ecosystem)
+
+C#, ASP.NET Core, .NET
+RESTful Web APIs
+Flutter
+SQL Server, Entity Framework Core
 
 Other Experience
-- Languages: Java, Python, Dart
-- Mobile & Frontend: Flutter, JavaScript, HTML, CSS
-- Cloud & Backend services: Firebase (Auth, Firestore, Cloud Functions)
-- Tools: Git, GitHub, Visual Studio, VScode, Postman
+Languages: Java, Python, Dart, PHP
+Frontend: JavaScript, HTML, CSS
+Cloud & Backend: Firebase (Auth, Firestore, Cloud Functions)
 
-⚡ Fun facts
-- PC hardware nerd 🖥️
-- Car & bike enthusiast 🏎️🏍️
+Tools: Git, GitHub, Visual Studio, VS Code, Postman, Eclipse, Android Studio, NetBeans
 
+⚡ Fun Facts
+PC gaming nerd 🖥️
+
+Car & bike enthusiast 🏎️🏍️
